@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "src":"./assets/images/instagram-167-svgrepo-com.svg"
+        
+    },
+    {
+        "id":2,
+        "src":"./assets/images/linkedin-svgrepo-com.svg"
+        
+    },
+    {
+        "id":3,
+        "src":"./assets/images/github-svgrepo-com.svg"
+        
+    },
+    {
+        "id":4,
+        "src":"./assets/images/gmail-svgrepo-com.svg"
+        
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "icon":"./assets/images/home-icon-silhouette-svgrepo-com.svg",
+        "lable":"Home"
+    },
+    {
+        "id":2,
+        "icon":"./assets/images/person-svgrepo-com.svg",
+        "lable":"About"
+    },
+    {
+        "id":3,
+        "icon":"./assets/images/resume-business-cv-work-job-curriculum-2-svgrepo-com.svg",
+        "lable":"Resume"
+    },
+    {
+        "id":1,
+        "icon":"./assets/images/service-svgrepo-com.svg",
+        "lable":"Service"
+    }
+]
